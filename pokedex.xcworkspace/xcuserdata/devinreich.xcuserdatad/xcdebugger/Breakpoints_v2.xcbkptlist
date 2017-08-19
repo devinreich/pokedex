@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pokedex/Pokemon.swift"
+            timestampString = "524862332.136055"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "downloadPokemonDetails(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pokedex.Pokemon.downloadPokemonDetails (completed : () -&gt; ()) -&gt; ()"
+                  moduleName = "pokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devinreich/Documents/App%20Development/Udemy%20iOS%2010%20Course/Pokedex/pokedex/pokedex/Pokemon.swift"
+                  timestampString = "524851285.638769"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "394">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pokedex.Pokemon.(downloadPokemonDetails (completed : () -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "pokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devinreich/Documents/App%20Development/Udemy%20iOS%2010%20Course/Pokedex/pokedex/pokedex/Pokemon.swift"
+                  timestampString = "524851285.641088"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pokedex/Pokemon.swift"
+            timestampString = "524862332.136055"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "downloadPokemonDetails(completed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
